@@ -4,25 +4,25 @@ import random
 import textwrap
 from optparse import OptionParser
 
-ascii_dove = """            \                                                                                           
-             \                                                                          
-              \                                                                         
-               \                                                    O,                  
-                \                                                   o;,                 
-                 \                                                 ,j l,                
-                  \                                                l,  o;               
-                   \                 d,                           ;,    v,              
-                    \                ;loo,                        ;c     ,c             
-                     \               'd  olo,                    c;       :;            
-                      \               lc   'ol;                 l;        'd            
-                       \              ;,      dl,              d;          c,           
-                        \             :l       'lo,           d:           g;           
-                         \            o:         ;d          d:            c,           
-                          \           d:          ;d        lc             l            
-                           \          ;c           ;O      co             ,d            
-                            \         Oc            O,    c;              ;:            
-                             \        0l            ;d  ,O;              :o             
-                              \      ;o             0:,;o                c;             
+ascii_dove = """            \\                                                                                           
+             \\                                                                          
+              \\                                                                         
+               \\                                                    O,                  
+                \\                                                   o;,                 
+                 \\                                                 ,j l,                
+                  \\                                                l,  o;               
+                   \\                 d,                           ;,    v,              
+                    \\                ;loo,                        ;c     ,c             
+                     \\               'd  olo,                    c;       :;            
+                      \\               lc   'ol;                 l;        'd            
+                       \\              ;,      dl,              d;          c,           
+                        \\             :l       'lo,           d:           g;           
+                         \\            o:         ;d          d:            c,           
+                          \\           d:          ;d        lc             l            
+                           \\          ;c           ;O      co             ,d            
+                            \\         Oc            O,    c;              ;:            
+                             \\        0l            ;d  ,O;              :o             
+                              \\      ;o             0:,;o                c;             
                                  ,;oo;             Oolp                 :;              
                                 ;O 0  O;o,       ,dd;                  c;               
                                ,o        'OlO:ideO;'                  lO                
@@ -37,18 +37,18 @@ ascii_dove = """            \
                                                                     'n'                 
                                                                           """
 
-smaller_ascii_dove = """                   \                                                                                           
-                    \                                                                          
-                     \                                                                  
-                      \                                  O,                  
-                       \                                 o;,                 
-                        \                               ,j l,                
-                         \                              l,  o;               
-                          \          d,                ;,    v,              
-                           \         ;loo,           ;c      c;            
-                            \        'd  olo,       c;       :;            
-                             \        lc   'ol;    l;        'd            
-                              \      ;o      :o;  c'          d;
+smaller_ascii_dove = """                   \\                                                                                           
+                    \\                                                                          
+                     \\                                                                  
+                      \\                                  O,                  
+                       \\                                 o;,                 
+                        \\                               ,j l,                
+                         \\                              l,  o;               
+                          \\          d,                ;,    v,              
+                           \\         ;loo,           ;c      c;            
+                            \\        'd  olo,       c;       :;            
+                             \\        lc   'ol;    l;        'd            
+                              \\      ;o      :o;  c'          d;
                                  ,;oo;        olp'            h;              
                                 ;O 0  O;o,   ,dd;             'c               
                                ,o        'OlO;'               O'               
